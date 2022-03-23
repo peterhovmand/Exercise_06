@@ -5,5 +5,3 @@ This exercise illustrates how to run a simple SIR.stmx model with stella_simulat
 1. In the terminal, clone this directory to get the files and Jupyter notebook for this exercise: git clone https://github.com/peterhovmand/Exercise_06.git
 2. Change the value of Infectivity. 
 3. Execute each step. 
-
-# Known limitations
